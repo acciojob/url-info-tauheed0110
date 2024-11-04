@@ -1,2 +1,2 @@
 const url = location.href;
-alert(url.length);
+alert("The length of the URL is "+url.length);
